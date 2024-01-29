@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/1. Tablas.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/4. vistas.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/borrar todo.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/inserciones.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/semestral - p1.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/semestral - p2.sql" dialect="OracleSqlPlus" />
+  </component>
+</project>

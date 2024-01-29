@@ -1,0 +1,132 @@
+{
+    "users": [
+        {
+            "name": "Kylee",
+            "lastname": "Cortez"
+        },
+        {
+            "name": "Angelina",
+            "lastname": "Smith"
+        },
+        {
+            "name": "Jonathan",
+            "lastname": "Knight"
+        },
+        {
+            "name": "Anton",
+            "lastname": "Austin"
+        },
+        {
+            "name": "Kasen",
+            "lastname": "Andrews"
+        },
+        {
+            "name": "Kaitlin",
+            "lastname": "Barrera"
+        },
+        {
+            "name": "Camila",
+            "lastname": "Herrera"
+        },
+        {
+            "name": "Noel",
+            "lastname": "Mcbride"
+        },
+        {
+            "name": "Maxim",
+            "lastname": "Patel"
+        },
+        {
+            "name": "Lamar",
+            "lastname": "Hutchinson"
+        },
+        {
+            "name": "Bryson",
+            "lastname": "Floyd"
+        },
+        {
+            "name": "Neil",
+            "lastname": "Bush"
+        },
+        {
+            "name": "Isabel",
+            "lastname": "Norton"
+        },
+        {
+            "name": "Adonis",
+            "lastname": "Gomez"
+        },
+        {
+            "name": "Natasha",
+            "lastname": "Baker"
+        },
+        {
+            "name": "Jayce",
+            "lastname": "Lucero"
+        },
+        {
+            "name": "Emerson",
+            "lastname": "Yu"
+        },
+        {
+            "name": "Madeleine",
+            "lastname": "Cook"
+        },
+        {
+            "name": "Cullen",
+            "lastname": "Flynn"
+        },
+        {
+            "name": "Cristina",
+            "lastname": "Levine"
+        }
+    ],
+
+    "animes": [
+        {
+            "name": "One Punch Man",
+            "creator": "ONE, Yusuke Murata",
+            "sinopsis": "El mundo se ve invadido por extraños monstruos que aparecen misteriosamente y que causan numerosos desastres a la población. Saitama es un poderoso superhéroe calvo que derrota fácilmente a los monstruos u otros villanos con un único golpe de su puño.",
+            "episodes": 24,
+            "emission": 2009,
+            "type": "Manga",
+            "genre": "Shonen"
+        },
+        {
+            "name": "One piece",
+            "creator": "Eiichiro Oda",
+            "sinopsis": " ",
+            "episodes": 1038,
+            "emission": 1999,
+            "type": "Manga",
+            "genre": "Accion"
+        },
+        {
+            "name": "Pokémon",
+            "creator": "Satoshi Tajiri",
+            "sinopsis": "La serie sigue las aventuras de un impetuoso y joven entrenador llamado Ash Ketchum, y de Pikachu, su compañero Pokémon, mientras viajan por el mundo Pokémon visitando destinos exóticos, conociendo a montones de personas y Pokémon nuevos e interesantes, y viviendo muchas y emocionantes aventuras.",
+            "episodes": 1219,
+            "emission": 1997,
+            "type": "Serie",
+            "genre": "Aventura"
+        },
+        {
+            "name": "Hunter x Hunter",
+            "creator": "Yoshihiro Togashi",
+            "sinopsis": "Para alcanzar su sueño de convertirse en un cazador legendario como su padre, un joven debe pasar un riguroso examen y encontrar a su padre, que está desaparecido.",
+            "episodes": 148,
+            "emission": 2011,
+            "type": "Serie",
+            "genre": "Aventura"
+        },
+        {
+            "name": "Dragon Ball Z",
+            "creator": "Akira Toriyama",
+            "sinopsis": " ",
+            "episodes": 291,
+            "emission": 1989,
+            "type": "Anime",
+            "genre": "Accion"
+        }
+    ]
+}
